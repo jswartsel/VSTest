@@ -10,7 +10,7 @@ namespace VSTest
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
-            Console.WriteLine("4! = " + Fact(5));
+            Console.WriteLine("4! = " + Fact(4));
             Console.ReadKey();
         }
 
@@ -18,7 +18,7 @@ namespace VSTest
         {
             if (fact < 0)
             {
-                throw new ArgumentOutOfRangeException("fact cannot be less than 0.");
+                throw new ArgumentOutOfRangeException("fact");
             }
 
             switch(fact)
