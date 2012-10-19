@@ -1,0 +1,5 @@
+C:\Temp\git\VSTest\VSTest\bin\Debug\VSTest.exe
+C:\Temp\git\VSTest\VSTest\bin\Debug\VSTest.pdb
+C:\Temp\git\VSTest\VSTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\git\VSTest\VSTest\obj\x86\Debug\VSTest.exe
+C:\Temp\git\VSTest\VSTest\obj\x86\Debug\VSTest.pdb
