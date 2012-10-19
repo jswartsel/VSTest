@@ -11,6 +11,9 @@ namespace VSTest
         {
             Console.WriteLine("hello world");
             Console.WriteLine("4! = " + Fact(4));
+            var j = new Justin();
+            j.WriteNumbers();
+
             Console.ReadKey();
         }
 
